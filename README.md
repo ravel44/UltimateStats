@@ -1,5 +1,5 @@
 # UltimateStats
-A free to use instagram analytics platform, check it out! -> https://www.ultimatestats.org/
+A free to use instagram analytics platform I created, check it out! -> https://www.ultimatestats.org/
 
 I built it using node, mongoDB, express, passport...<br>
 I am monetizing it like my proof of concept video game(https://pascalguyon.org/video-game1/) by eleveraging the 1st smart blockchain from music, Musicoin(https://goo.gl/FZnm3o)
